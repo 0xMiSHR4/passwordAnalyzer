@@ -90,9 +90,3 @@ python password_analyzer.py
 | 40–59 | Fair |
 | 60–79 | Strong |
 | 80–100 | Very Strong |
-
----
-
-## License
-
-MIT — free to use, modify, and distribute.
