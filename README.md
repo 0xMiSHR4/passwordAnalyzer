@@ -43,7 +43,7 @@ python password_analyzer.py
 
 ```
 ╔══════════════════════════════════╗
-║      Password Strength Analyzer  ║
+║    Password Strength Analyzer    ║
 ╚══════════════════════════════════╝
 
   Enter your password (input hidden): 
